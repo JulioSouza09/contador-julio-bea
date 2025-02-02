@@ -1,4 +1,4 @@
-let n = 0;
+let n = 1;
 
 document.querySelector("button").addEventListener("click", function() {
 	document.querySelector("img").setAttribute("src", "./static/images/julio-e-bea" + n + ".jpg");
