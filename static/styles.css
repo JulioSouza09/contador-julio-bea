@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Sriracha:700|Sriracha:400');
+
+
+body {
+  font-family: 'Sriracha';
+  font-weight: 400;
+  background-color: #160308 !important;
+  color: #f9d7e2 !important;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Sriracha';
+  font-weight: 700;
+}
+
+html {font-size: 100%;} /* 16px */
+
+h1 {font-size: 6vw; /* 53.92px */}
+
+
+h1 span {
+    font-size: 3vw;
+}
+
+h2 span#words {
+    color: #ec83a4;
+}
+
+
+.main {
+  background-color: #ec83a40d;
+}
+
+.botao {
+  background-color: #892c154d;
+  border-style: none;
+}
+
+.botao:active, .botao:hover {
+  background-color: #892c1533 !important;
+}
+
+/*--text: #e9e1f3;
+/*--background: #120a1c;
+/*--primary: #b597dc;
+/*--secondary: #482477;
+/*--accent: #8f5dd2;
